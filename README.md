@@ -31,7 +31,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/camille-elleholm/" target="_blank"><img src="https://img.shields.io/badge/%E2%86%97-b98cff?style=flat&logoColor=ffffff&label=LinkedIn&labelColor=141230" alt="LinkedIn" width="97.5" ></a>
-<a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/%E2%86%97-221F4A?style=flat&logoColor=ffffff&label=Portfolio&labelColor=141230" alt="Portfolio" width="95.02" ></a>
 <a href="mailto:caod0001@stud.ek.dk" target="_blank"><img src="https://img.shields.io/badge/%E2%86%97-221F4A?style=flat&logoColor=ffffff&label=Email&labelColor=141230" alt="Email" width="77.52" ></a>
 </p>
 
