@@ -10,6 +10,7 @@
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-b98cff?style=flat&logo=javascript&logoColor=ffffff"/>
 <img alt="astro" src="https://img.shields.io/badge/Astro-b98cff?style=flat&logo=astro&logoColor=ffffff"/>
 <img alt="html" src="https://img.shields.io/badge/HTML5-221F4A?style=flat&logo=html5&logoColor=ffffff"/>
+<img alt="tailwind" src="https://img.shields.io/badge/Tailwind-221F4A?style=flat&logo=tailwindcss&logoColor=ffffff"/>
 <img alt="css" src="https://img.shields.io/badge/CSS-221F4A?style=flat&logo=css&logoColor=ffffff"/>
 <img alt="react" src="https://img.shields.io/badge/React-221F4A?style=flat&logo=react&logoColor=ffffff"/>
 <img alt="next.js" src="https://img.shields.io/badge/Next.js-221F4A?style=flat&logo=nextdotjs&logoColor=ffffff"/>
